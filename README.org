@@ -1,20 +1,20 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
 
-* Chenla Deploy
-  :PROPERTIES:
-  :CUSTOM_ID: 
-  :Name:      /home/deerpig/proj/chenla/deploy/README.org
-  :Created:   2017-06-22T11:25@Prek Leap (11.642600N-104.919210W)
-  :ID:        767807ee-30b5-46dc-aa82-250221b44f79
-  :VER:       551377592.782657084
-  :GEO:       48P-491193-1287029-15
-  :BXID:      proj:MPW6-0571
-  :Class:     deploy
-  :Type:      readme
-  :Status:    stub 
-  :Licence:   MIT/CC BY-SA 4.0
-  :END:
+* Studyhall README
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/studyhall/README.org
+:Created:  2017-08-20T19:20@Prek Leap (11.642600N-104.919210W)
+:ID:       155c0d16-4181-4ae3-b808-893c2c6ee792
+:VER:      556503685.788619006
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:LLL6-6387
+:Class:    deploy
+:Type:     readme
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]]
 [[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
@@ -22,12 +22,38 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-At the moment, Deploy is a catchall for work on anything that could
-potentially be built and deployed in the real world, as opposed to
-theory, or projects.  Projects are what gets built.
-
-Some of these will become projects in their own
-right, or the foundation for various types of rabbitholes.  
 
 
+Studyhall is a project that was envisioned at least 10 years ago to
+establish an path for for people in developing countries such as Laos
+and Cambodia to learn and master advanced technical skills, experience
+that qualify them to work in technical jobs at the same level as
+people in Silicon Valley.  The idea was to create an educational
+framework and program that could train people to become tech
+profesionals the way that most of the old graybeards learned, through
+a combination of self-study, deliberate practice, mentorship and being
+part of a larger community of people learning and masters through
+mailing lists, irc chat, usenet newsgroups, web sites and later forums
+and rss.
 
+The original plan was to create a study program that laid out what you
+needed to learn, along with materials and links to resources online.
+We would then establish a tutorial center where students could go to
+sit down in person with professionals who would help them through
+parts of the program that they were having problems with.  We would
+also establish a sabbatical program so that professionals from around
+the world could come and live and work for anywhere from a couple
+weeks to a couple of months to work on an open source project that the
+students in the program would take part in.
+
+We got as far as renting a building in Phnom Penh and aquired most of
+the equipment needed to open the tutorial center.  We even had lined
+up a number of professionals who offered to volunteer as tutors.
+Sadly our funding ran out before we could open the center.
+
+We are now in the process of redesigning the program as a joint
+venture between the Chenla Institute and Prek Leap National College of
+Agriculture which will soon become a National University which will
+offer programs in both agriculture and technology.
+
+This repo will hold all materials used in developing the program.
