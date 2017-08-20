@@ -1,0 +1,33 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+STARTUP: showall
+
+* Chenla Deploy
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/deploy/README.org
+  :Created:   2017-06-22T11:25@Prek Leap (11.642600N-104.919210W)
+  :ID:        767807ee-30b5-46dc-aa82-250221b44f79
+  :VER:       551377592.782657084
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:MPW6-0571
+  :Class:     deploy
+  :Type:      readme
+  :Status:    stub 
+  :Licence:   MIT/CC BY-SA 4.0
+  :END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-readme-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+At the moment, Deploy is a catchall for work on anything that could
+potentially be built and deployed in the real world, as opposed to
+theory, or projects.  Projects are what gets built.
+
+Some of these will become projects in their own
+right, or the foundation for various types of rabbitholes.  
+
+
+
