@@ -27,3 +27,46 @@
 
 * Introduction
 
+
+** Programs
+
+ - 2 Year Diploma in Software Development
+ - 2 Year Diploma in Computer & Network System Operations
+
+ - 4 Year Devops Degree Program
+
+ - Career Development Courses
+   - Developers
+   - SysAdmins
+   - Scientists
+   - Engineers
+
+** Core
+
+Each diploma and degree program will require students to complete a
+set of courses that will teach core skills needed to study the more
+advanced course material.
+
+All material in the Core will be used not only to learn base skills,
+but also just as importantly to teach Critical Thinking based on
+Logic, Communication Skills that include how to organize, and present
+communicate ideas, as well as rhetorical skills to both defend and
+pursuade others, and finally, base research skills which make it
+possible for students to learn how to learn.
+
+ - Language Skills
+   - Reading
+   - Writing
+   - Speaking
+
+ - Technical Skills
+   - Editors
+   - Version Control
+   - Scripting Languages
+   - Shell
+   - Linux & Unix Operating System
+   - Networking Fundementals
+   - Web Fundementals
+   - Collaboration (Agile, Scrum, Kanban)
+   - Virtualization (VMs, Containers etc)
+   - Literate Computing & Devops
