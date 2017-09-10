@@ -27,7 +27,6 @@
 
 * Introduction
 
-
 ** Programs
 
  - 2 Year Diploma in Software Development
@@ -50,9 +49,9 @@ advanced course material.
 All material in the Core will be used not only to learn base skills,
 but also just as importantly to teach Critical Thinking based on
 Logic, Communication Skills that include how to organize, and present
-communicate ideas, as well as rhetorical skills to both defend and
-pursuade others, and finally, base research skills which make it
-possible for students to learn how to learn.
+ideas, as well as rhetorical skills to both defend and pursuade
+others, and finally, base research skills which make it possible for
+students to learn how to learn.
 
  - Language Skills
    - Reading
@@ -64,9 +63,9 @@ possible for students to learn how to learn.
    - Version Control
    - Scripting Languages
    - Shell
-   - Linux & Unix Operating System
+   - The Linux & Unix Operating System
    - Networking Fundementals
    - Web Fundementals
-   - Collaboration (Agile, Scrum, Kanban)
    - Virtualization (VMs, Containers etc)
    - Literate Computing & Devops
+   - Bitmap & Vector Graphic Fundementals
