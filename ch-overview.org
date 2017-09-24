@@ -25,3 +25,108 @@
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 
+* Chalkhall Study Program Overview
+
+Based on [[id:8426aa17-39a9-4714-9070-c133591a0d32][Notes]]
+
+** The Study Program
+
+
+  - Work on our inhouse OpenStack/OpenShift/Ceph cluster, develop
+    applications, assemble infrastructure, manage hardware, and
+    running systems.
+
+  - Learn the basics, including /the two editors/, version control,
+    shell programing, linux/*nix system and network administration and
+    the basics for programing (a SCIP like approach).
+
+  - Learn the cutting edge, and work with a wide variety of
+    technologies that are being used to build modern systems that can
+    scale.
+
+  - An accredited degree from a National College.  For people living
+    in Western countries, it might not sound like much to have a
+    degree from a Cambodian University, but it is essential for
+    graduates to accept jobs in Cambodia.
+
+  - A study program designed around the concept of "fliping" the
+    classroom.  There are no lectures.  Students will read course
+    material, and watch videos which will be divided into short 10
+    minute or less topics.  Class time will be devoted to answering
+    questions, pair-programing exercises, and group projects.
+
+  - A study program which is portfolio-centric.  The idea is for
+    students to start from day one, to build a portfolio of code,
+    runbooks and experience building and managing real world systems.
+
+  - A study program that spends as much time teaching technology as it
+    teaches critical thinking and communication skills.  The idea is
+    that a base education teaches people how to think, learn and
+    communicate as a foundation for lifelong learning.
+
+  - Campus dorms & workspaces and a group meal every day for students,
+    as well as visiting interns and visiting professionals in the
+    sabbatical program.
+
+** The Pilot Program
+
+Our initial pilot program will focus on Camodian Women in IT.  The 
+first class will be all women.  There are not as many opportunities
+for women to find good paying professional jobs anywhere in the world
+and this is especially true in South East Asia.
+
+The first class will be made up of ten students, who will help us
+develop and test the course material that will be used in the future.
+
+We will invite women students and working professionals from around
+the world to work with students through a combination of online
+mentorship and in person in Cambodia through, internship and
+sabbatical program that last anywhere from a week or two to several
+months.
+
+From day one, we will begin promotion of the program to IT companies
+in Cambodia.  We will be looking for feed back from companies on what
+skills they need today and what they will need in the future and lay
+the groundwork so that there will be good jobs waiting for them when
+they graduate.
+
+
+** Funding the program
+
+To fund the pilot program we will approach Remote Only Companies
+who have a workforce who works from where they live anywhere around
+the world.  Some of the including:
+
+  - GitHub -- version control repository hosting
+  - GitLab -- version control repository hosting
+  - BaseCamp -- project management & team communication software
+  - Automattic -- makers of Wordpress
+  - Mozilla -- makers of Firefox Web Browser
+  - DataStax -- data management for cloud applications
+
+These companies are the poster children for technical innovation and
+Remote Work.  They all have teams spread across the planet.
+
+** The Ask
+
+Sponsor a girl in the pilot program for two years xxx/month and a
+laptop.
+
+Provide remote internship to students in their second year.
+
+Ask your employees to become mentors, and participate and sponsor
+their participation in our Sabbatical program to come to Cambodia for
+anywhere from a couple of weeks to a couple of months to work with
+students and on open source software projects.
+
+Provide input and guidence on what skills and technologies that are
+needed to work at their companies.
+
+At the end of the program, you have the option of hiring graduates.
+
+Help support our core team through Patreon.
+
+Ask for them to become co-founders of Chenla Institute a Charity
+registered in Singapore.
+
+
