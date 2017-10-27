@@ -26,3 +26,28 @@
 
 
 * Introduction
+
+
+ - [[http://irreal.org/blog/?p=6701][AWK Examples]] | Irreal
+
+ #+begin_src bibtex
+ @book{aho:1988awk,
+   title =     {The AWK Programming Language},
+   author =    {Alfred V. Aho, Brian W. Kernighan, Peter J. Weinberger},
+   publisher = {Addison Wesley},
+   isbn =      {020107981X,9780201079814},
+   year =      {1988},
+   edition =   {1},
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=0AD0779BF3602F1EA22734B6EEFCA0EA}}
+@book{robbins:2000sed,
+   title =     {Sed & awk pocket reference},
+   author =    {Arnold Robbins},
+   publisher = {O'Reilly & Associates},
+   isbn =      {156592729X,9781565927292},
+   year =      {2000},
+   edition =   {Pocket},
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=C30490411387D221A83AD1DB74FB4C13}}
+
+
+ #+end_src
+
