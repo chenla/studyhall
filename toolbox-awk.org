@@ -29,6 +29,9 @@
 
 
  - [[http://irreal.org/blog/?p=6701][AWK Examples]] | Irreal
+ - [[https://www.gnu.org/software/gawk/manual/gawk.html][The GNU Awk User’s Guide]] | Free Software Foundation
+ - [[https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md][Command-line-text-processing/gnu_awk.md]] | Sundeep Agarwal
+
 
  #+begin_src bibtex
  @book{aho:1988awk,
@@ -47,7 +50,18 @@
    year =      {2000},
    edition =   {Pocket},
    url =       {http://gen.lib.rus.ec/book/index.php?md5=C30490411387D221A83AD1DB74FB4C13}}
-
+@book{dougherty:2010sed,
+   title =     {Sed & awk (2nd Edition)},
+   author =    {Dale Dougherty, Arnold Robbins},
+   publisher = {O'Reilly Media},
+   isbn =      {1565922255,9781565922259,9781449387006,1449387004},
+   year =      {2010},
+   edition =   {2nd},
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=8F3DCF700E042617CD7E27D313AED6DD}}
+@book{book:781426,
+   title =     {Sed & awk 101 Hacks  },
+   author =    {www.thegeekstuff.com},
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=ECF2F2D8A72E7C3CFFCA0036A73AEED4}}
 
  #+end_src
 
