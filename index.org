@@ -59,20 +59,19 @@ will develop communication as well as technical skills
 needed to learn and function in professional work
 environments.
 
-
-
 ** Foundation & Practicum (years 1-2)
 
   - Intro Computer Science :: broad introduction to base
        concepts and how things fit together to find out if
        CS is a good fit for students.
+
   - Core Tools ::  editors, shell, graphics, version
                   control, containers, VMs
-  - Core WebStack :: html, httpd, css, javascript & frameworks
+  - Core WebStack :: html, httpd, css, javascript, php  & frameworks
   - Intro Systems :: Operating Systems, Neworking & Security
-  - Intro Python  :: 
-  - Intro Ruby    :: 
-  - Intro Statistics :: and R
+  - Intro Python  :: basic python scripting and virtualenv
+  - Intro Ruby    :: basic ruby scripting and virtualenv
+  - Intro Statistics :: basic statistics and processing with R
 
 
   - Writing  :: everything from correspondence, essays, reports
@@ -82,32 +81,52 @@ environments.
   - Critical Thinking :: logic, learn how to learn, learning
        how to fail.
 
+  - Computing for Science :: ipython, reproducable research
+
 
 ** Core Computer Science (years 2-4)
 
-  - Core CS :: corresponds roughly to the first three years of
-    a computer science curriculum, taking classes that all
-    majors would be required to take
+Required courses that correspond roughly to the first three
+years of a computer science curriculum.  Courses begin in
+the second year of study which overlaps with the second year
+of foundation and practicum studies.
 
-    - Core programing
-    - Core math
-    - Core systems
-    - Core applications
+Topics: 
 
-  - Advanced CS :: corresponds roughly to the final year of a
-    computer science curriculum, taking electives according
-    to the student's interests
+Laguages: Haskell, Scheme, Prolog, C, Java, Rust, Golang.
 
-  - Final Project :: a project for students to validate,
-    consolidate, and display their knowledge, to be
-    evaluated by their peers worldwide
-
-  - Pro CS :: graduate-level specializations students can
-    elect to take after completing the above curriculum if
-    they want to maximize their chances of getting a good
-    job
+  - Core programing
+  - Core math
+  - Core systems
+  - Core applications
 
 
+** Advanced Computer Science (years 4) 
+
+Elective couses that correspond to final year of a computer
+science curriculum.
+
+Topics:
+
+
+** Portflio & Final Project
+A project for students to validate, consolidate, and display
+their knowledge in the form of a literate program, that,
+taken together with their engineering notebooks, runbooks
+and 
+
+** Specializations
+
+Graduate-level specializations that can be taken after
+completing the above curriculum.
+
+** Teaching & Mentorship
+
+The last stage of mastery is to teach.  Students will become
+mentors and tutors for students coming up through the
+program and work with them on real world projects.  But also
+through blogging and other types of publications,
+participating in conferences and online forums.
 
 * Toolbox
 
