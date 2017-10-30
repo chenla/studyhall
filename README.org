@@ -24,36 +24,42 @@
 
 
 
-Studyhall is a project that was envisioned at least 10 years ago to
-establish an path for for people in developing countries such as Laos
-and Cambodia to learn and master advanced technical skills, experience
-that qualify them to work in technical jobs at the same level as
-people in Silicon Valley.  The idea was to create an educational
-framework and program that could train people to become tech
-profesionals the way that most of the old graybeards learned, through
-a combination of self-study, deliberate practice, mentorship and being
-part of a larger community of people learning and masters through
-mailing lists, irc chat, usenet newsgroups, web sites and later forums
-and rss.
+Studyhall is a project that was envisioned at least 10 years
+ago to establish an path for for people in south east asia
+to learn and master advanced technical skills, experience
+that qualify them to work in technical jobs at the same
+level as people in Silicon Valley.  The idea was to create
+an educational framework and program that could train people
+to become tech profesionals the way that most of the old
+graybeards learned, through a combination of self-study,
+deliberate practice, mentorship and being part of a larger
+community of people learning and masters through mailing
+lists, irc chat, usenet newsgroups, web sites and later
+forums and rss.
 
-The original plan was to create a study program that laid out what you
-needed to learn, along with materials and links to resources online.
-We would then establish a tutorial center where students could go to
-sit down in person with professionals who would help them through
-parts of the program that they were having problems with.  We would
-also establish a sabbatical program so that professionals from around
-the world could come and live and work for anywhere from a couple
-weeks to a couple of months to work on an open source project that the
-students in the program would take part in.
+The original plan was to create a study program that laid
+out what you needed to learn, along with materials and links
+to resources online.  We would then establish a tutorial
+center where students could go to sit down in person with
+professionals who would help them through parts of the
+program that they were having problems with.  We would also
+establish a sabbatical program so that professionals from
+around the world could come and live and work for anywhere
+from a couple weeks to a couple of months to work on an open
+source project that the students in the program would take
+part in.
 
-We got as far as renting a building in Phnom Penh and aquired most of
-the equipment needed to open the tutorial center.  We even had lined
-up a number of professionals who offered to volunteer as tutors.
-Sadly our funding ran out before we could open the center.
+We got as far as renting a building in Phnom Penh and
+aquired most of the equipment needed to open the tutorial
+center.  We even had lined up a number of professionals who
+offered to volunteer as tutors.  Sadly our funding ran out
+before we could open the center.
 
-We are now in the process of redesigning the program as a joint
-venture between the Chenla Institute and Prek Leap National College of
-Agriculture which will soon become a National University which will
-offer programs in both agriculture and technology.
+We are now in the process of redesigning the program as a
+joint venture between the Chenla Institute and Prek Leap
+National College of Agriculture which will soon become a
+National University which will offer programs in both
+agriculture and technology.
 
-This repo will hold all materials used in developing the program.
+This repo will hold all materials used in developing the
+program.
