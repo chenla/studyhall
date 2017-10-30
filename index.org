@@ -28,8 +28,116 @@
  
  - [[./ch-overview.org][Chalkhall Overview]]
 
+* Curriculum
+
+In a sense we will be teaching things backwards -- start
+with building practical skills that can be used on the job,
+and then go back and learn underlying theory, math and
+details concepts.  This is done for two reasons.  We want
+students to become exposed to and start working on real
+projects as soon as possible.  We believe the best way to
+learn is by doing.  Second, most students in developing
+countries do not have the luxury of spending four years in
+school before they can begin earning money for their
+families.  By providing basic practical skills and then
+proactively placing students in P/T internships and jobs
+where employers agree to support ongoing studies,
+financially and through flexibile hours.
+
+After that is complete, students can then begin specialized
+studies in everything from computer graphics, cryptography,
+advanced software engineering, machine learning etc.
+
+The degree programs are a subset of a larger superset of
+study which is designed to take roughly ten years to
+complete, in which students will complete approximately
+10,000 hours of deliberate practice after which they will
+have become masters in their own right.
+
+Materials are desgined for non-native english speakers, and
+will develop communication as well as technical skills
+needed to learn and function in professional work
+environments.
+
+
+
+** Foundation & Practicum (years 1-2)
+
+  - Intro Computer Science :: broad introduction to base
+       concepts and how things fit together to find out if
+       CS is a good fit for students.
+  - Core Tools ::  editors, shell, graphics, version
+                  control, containers, VMs
+  - Core WebStack :: html, httpd, css, javascript & frameworks
+  - Intro Systems :: Operating Systems, Neworking & Security
+  - Intro Python  :: 
+  - Intro Ruby    :: 
+  - Intro Statistics :: and R
+
+
+  - Writing  :: everything from correspondence, essays, reports
+                and technical and scientific writing.
+  - Reading  :: reading & understanding cultural context
+  - Rhetoric :: spoken communication, presentation and argument
+  - Critical Thinking :: logic, learn how to learn, learning
+       how to fail.
+
+
+** Core Computer Science (years 2-4)
+
+  - Core CS :: corresponds roughly to the first three years of
+    a computer science curriculum, taking classes that all
+    majors would be required to take
+
+    - Core programing
+    - Core math
+    - Core systems
+    - Core applications
+
+  - Advanced CS :: corresponds roughly to the final year of a
+    computer science curriculum, taking electives according
+    to the student's interests
+
+  - Final Project :: a project for students to validate,
+    consolidate, and display their knowledge, to be
+    evaluated by their peers worldwide
+
+  - Pro CS :: graduate-level specializations students can
+    elect to take after completing the above curriculum if
+    they want to maximize their chances of getting a good
+    job
+
 
 
 * Toolbox
 
- - [[./toolbox-awk.org][AWK]]
+We will loosely base the circiculm on [[https://github.com/ossu/computer-science][ossu/computer-science]]. 
+
+
+** Unix & Linux Operating Systems
+** Command Line
+** Command Line Text Processing
+- [[./toolbox-awk.org][AWK]]
+** Scripting
+** Editors
+*** Vi
+*** Emacs
+** Version Control
+
+** Languages
+- SICP
+- Python
+- Ruby
+- Emacs Lisp
+- R
+
+** Web Stack
+- XML
+- HTML
+- CSS
+- PHP
+- Javascript
+
+
+
+
