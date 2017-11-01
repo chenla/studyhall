@@ -83,6 +83,8 @@ environments.
 
   - Computing for Science :: ipython, reproducable research
 
+  - professional development -- certificate program for
+    working professionals.
 
 ** Core Computer Science (years 2-4)
 
@@ -100,8 +102,7 @@ Laguages: Haskell, Scheme, Prolog, C, Java, Rust, Golang.
   - Core systems
   - Core applications
 
-
-** Advanced Computer Science (years 4) 
+** Advanced Computer Science (year 4) 
 
 Elective couses that correspond to final year of a computer
 science curriculum.
