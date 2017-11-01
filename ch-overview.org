@@ -33,18 +33,60 @@
  - Otium       -- inner
  - Negotium    -- outer
 
+
+The Seven Liberal Arts
+
+ - Trivium :: three arts of language pertaining to the mind.
+
+The function of the trivium is the training of the mind for
+the study of matter and spirit, which together constitute
+the sum of reality.
+
+
+
+   - logic     :: art of thinking
+   - grammer   :: art of inventing and combining symbols
+   - rhetoric  :: art of communication
+
+ - Quadrivium :: four arts of quantity pertaining to matter
+
+  /discrete quantities/
+
+   - arithmetic (theory of number)
+     - algebra, calculus, etc
+   - music (applied of theory)
+     - harmony, chemistry, 
+
+   /continuous quantity/
+
+   - geometry (theory of space)
+     - geometry, trigonometry
+   - astronomy (applied theory of space)
+     - architecture, geography, surveying, engineering 
+
+
  - Liberal Arts
-   - grammer   --
-   - logic     --
-   - rhetoric  --
-   - -----
-   - arithmetic 
-   - music
-   - geometry
-   - astronomy
+   Action begins in the agent and ends in the agent who is
+   perfected by the action.
+
+
+In the Utilitarian & Fine arts, action begins in the agent
+and ends in an object.
 
  - Utilitarian Arts
+   Produces utilities that serve the wants of humanity.
+
+
+
+   - carpentry, masonry, plumbing, salemanship, printing,
+     editing, banking, law, medicine, or the care of souls.
+   
+
  - Fine Arts
+   Produces works that have the power to elevate the human
+   spirit and understand the world and our place in it.
+
+   
 
 
 Life is a tightrope walk, balancing between /doing/ and /knowing/.
