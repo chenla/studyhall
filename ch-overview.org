@@ -38,14 +38,18 @@ The Seven Liberal Arts
 
  - Trivium :: three arts of language pertaining to the mind.
 
-The function of the trivium is the training of the mind for
-the study of matter and spirit, which together constitute
-the sum of reality.
-
-
+   The function of the trivium is the training of the mind
+   for the study of matter and spirit, which together
+   constitute the sum of reality.
 
    - logic     :: art of thinking
    - grammer   :: art of inventing and combining symbols
+     - prosody [versification]
+     - exposition [rhetoric]
+     - dialectic & allusion
+     - eytomologies
+     - analogies
+     - poetic productions
    - rhetoric  :: art of communication
 
  - Quadrivium :: four arts of quantity pertaining to matter
