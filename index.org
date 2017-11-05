@@ -60,8 +60,19 @@ needed to learn and function in professional work
 environments.
 
 The overall philosophy is that everything reinforces what
-came before it.
+came before it, and that each topic is approached at
+different levels of difficulty, from multiple POV and LOD.
+In this way this becomes an educational platform, not just
+one set of text books.
 
+I also want to find a way to create a modular method of
+learning on your own and/or in class that pulls everything
+into a big picture -- that ties the arts and sciences,
+utilitarian and fine arts together..
+
+ - L :: liberal arts & sciences
+ - U :: utilitarian arts & sciences
+ - F :: fine arts
 
 ** Foundation & Practicum (years 1-2)
 
