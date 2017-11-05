@@ -1,0 +1,44 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Rhetoric (Oral Communication)
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/studyhall/sh-rhetoric.org
+:Created:   2017-11-05T16:26@Prek Leap (11.642600N-104.919210W)
+:ID:        7063babc-5e48-4c06-bfd7-b142d0d37dfa
+:VER:       563146074.793530647
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:BEU8-7224
+:Class:     primer
+:Type:      work
+:Status:    wip
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+:META:
+:course:   CS.103[T]
+:name:     Oral Communication (rhetoric I)
+:prereq:   None
+:semester: 
+:units:    9
+:END:
+
+Provides instruction in aspects of effective technical oral
+presentations and exposure to communication skills useful in a
+workplace setting. Students create, give and revise a number of
+presentations of varying length targeting a range of different
+audiences.
+
+** Notes
+
+This is effectively a course in rhetoric
