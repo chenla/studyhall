@@ -87,9 +87,36 @@ learning on your own and/or in class that pulls everything
 into a big picture -- that ties the arts and sciences,
 utilitarian and fine arts together..
 
- - L :: liberal arts & sciences
- - U :: utilitarian arts & sciences
- - F :: fine arts
+ - LA/S :: liberal arts & sciences
+ - UA/S :: utilitarian arts & sciences
+ - FA   :: fine arts
+
+But for this to work there have to be some basic rules for
+the platform -- everything should be designed to:
+
+  - complete in 30 minutes of concentrated effort.
+  - must be available in org markup, and html (epub) and web
+    page.
+  - a 10 minute video that provides an introduction.
+  - each lesson is part of a thread(s), and has broader and
+    narrower relationships to concepts.
+  - include exercises/problems/examples (cookbook)
+  - facts and exercises should be incorporated into a spaced
+    repitition regime.  but not just flash card SRS, but
+    reminders to review notes and material -- every time you
+    review material, you get the chance to add to and refine
+    your notes.
+
+Drills are different from notes.
+
+After the initial cycle of spaced repitition is complete and
+what you learned is now part of long term memory, the 2 year
+intervals are a bit more tricky -- your notes are basically
+your engineering work notes -- so every time you check them,
+it should count as a review and the timer reset for the two
+year review.
+
+
 
 ** Foundation & Practicum (years 1-2)
 
