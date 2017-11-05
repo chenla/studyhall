@@ -25,8 +25,8 @@
 
 
  - [[./sh-intro.org][Introduction]]
- 
  - [[./ch-overview.org][Chalkhall Overview]]
+ - [[https://www.farnamstreetblog.com/2012/04/learn-anything-faster-with-the-feynman-technique/][The Feynman Technique: The Best Way to Learn Anything]]
 
 * Curriculum
 
@@ -54,12 +54,32 @@ complete, in which students will complete approximately
 10,000 hours of deliberate practice after which they will
 have become masters in their own right.
 
-Materials are desgined for non-native english speakers, and
+Materials are designed for non-native english speakers, and
 will develop communication as well as technical skills
 needed to learn and function in professional work
 environments.
 
+The overall philosophy is that everything reinforces what
+came before it.
+
+
 ** Foundation & Practicum (years 1-2)
+
+
+Foundation Arts: provides the basic intellectual and
+communication tools that all learning is based on.  This is
+embodied in the Trivium's grammer, logic and rhetoric.  But
+we will expand this to include a base tool box of computer
+skills as well, which include the shell and core utilities,
+regular expressions, the two classical editors (emacs & vim)
+and a practical knowledge of two scripting languages, the
+unix operating system, and essential programing concepts.
+Together these two sets of tools will be used as the
+foundation for everything else.
+
+Foundation sciences: basic physics, chemistry
+
+
 
   - Intro Computer Science :: broad introduction to base
        concepts and how things fit together to find out if
@@ -72,14 +92,19 @@ environments.
   - Intro Python  :: basic python scripting and virtualenv
   - Intro Ruby    :: basic ruby scripting and virtualenv
   - Intro Statistics :: basic statistics and processing with R
+  - Intro Provisioning :: chef, puppet etc -- 
 
+Communication & Logic
 
-  - Writing  :: everything from correspondence, essays, reports
+  - Written  :: everything from correspondence, essays, reports
                 and technical and scientific writing.
   - Reading  :: reading & understanding cultural context
-  - Rhetoric :: spoken communication, presentation and argument
+  - [[./sh-rhetoric.org][Oral]] :: spoken communication, presentation and argument
   - Critical Thinking :: logic, learn how to learn, learning
        how to fail.
+
+
+--------
 
   - Computing for Science :: ipython, reproducable research
 
