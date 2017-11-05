@@ -91,6 +91,12 @@ utilitarian and fine arts together..
  - UA/S :: utilitarian arts & sciences
  - FA   :: fine arts
 
+This is not designed /just/ for a degree program, but is
+meant to be a living lifetime learning platform, that makes
+it possible to learn anything, master it, remember it, and
+provide a means of continuing to learn more on each topic
+over time.
+
 But for this to work there have to be some basic rules for
 the platform -- everything should be designed to:
 
