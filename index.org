@@ -26,7 +26,24 @@
 
  - [[./sh-intro.org][Introduction]]
  - [[./ch-overview.org][Chalkhall Overview]]
+
+ - [[https://www.quora.com/Can-the-Feynman-lectures-on-physics-help-me-learn-physics][Can the Feynman lectures on physics help me learn physics? - Quora]]
+
+
+* Techniques
+
+Learning how to study, how to read and take notes should be
+done up front.
+
+ - 30 minute blocks - learn to rest
  - [[https://www.farnamstreetblog.com/2012/04/learn-anything-faster-with-the-feynman-technique/][The Feynman Technique: The Best Way to Learn Anything]]
+ - [[https://www.quora.com/How-effective-is-the-Feynman-technique-for-learning][How effective is the Feynman technique for learning?]] | Quora
+ - Mind Maps
+ - Spaced Repitition
+ - [[https://en.wikipedia.org/wiki/Spaced_repetition#Pimsleur.27s_graduated-interval_recall][Spaced repetition]] | Wikipedia
+ - [[https://www.quora.com/Whats-the-best-spaced-repetition-schedule][What's the best spaced repetition schedule?]] | Quora
+ - [[https://www.wired.com/2008/04/ff-wozniak/?currentPage=all][Want to Remember Everything You'll Ever Learn? Surrender to This Algorithm]] | WIRED
+ - [[http://orgmode.org/worg/org-contrib/org-drill.html][org-drill.el – flashcards and spaced repetition for org-mode]]
 
 * Curriculum
 
