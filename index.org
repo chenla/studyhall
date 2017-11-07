@@ -27,10 +27,11 @@
  - [[./sh-intro.org][Introduction]]
  - [[./ch-overview.org][Chalkhall Overview]]
 
- - [[https://www.quora.com/Can-the-Feynman-lectures-on-physics-help-me-learn-physics][Can the Feynman lectures on physics help me learn physics? - Quora]]
+ - [[https://www.quora.com/Can-the-Feynman-lectures-on-physics-help-me-learn-physics][Can the Feynman lectures on physics help me learn physics?]] | Quora
 
  - [[./sh-blended-learning.org][Blended Learning]]
  - [[./sh-spaced-repitition.org][Spaced Repitition]]
+ - 
 
 * Techniques
 
@@ -44,13 +45,22 @@ done up front.
  - [[https://www.quora.com/How-effective-is-the-Feynman-technique-for-learning][How effective is the Feynman technique for learning?]] | Quora
  - Mind Maps
 
-
  - Memory Palace
  - [[https://www.youtube.com/watch?v=BxFKvn5wCrE&index=7&list=PLY33uf2n4e6NALWnVjUZVbXwsJtiFGccI][Memory palaces]] | open.osmosis.org (YouTube)
 
 
  - time clocking
  - task management
+
+* Pedagogy
+
+ - Three Pillars of Academia: Teaching, Research, Service
+   
+It seems that a split of 40/40/20 is a good balance for
+teaching staff.  I think we need to extend the concept to
+students as well, students will need to study, practice and
+work.  Working 20% doesn't sound like much.... but there are
+only so many hours in a day.
 
 * Curriculum
 
