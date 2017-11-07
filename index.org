@@ -45,6 +45,9 @@ done up front.
  - [[https://www.wired.com/2008/04/ff-wozniak/?currentPage=all][Want to Remember Everything You'll Ever Learn? Surrender to This Algorithm]] | WIRED
  - [[http://orgmode.org/worg/org-contrib/org-drill.html][org-drill.el – flashcards and spaced repetition for org-mode]]
 
+ - time clocking
+ - task management
+
 * Curriculum
 
 In a sense we will be teaching things backwards -- start
