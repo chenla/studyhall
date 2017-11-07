@@ -6,7 +6,7 @@
 #+PROPERTY: filename
 :PROPERTIES:
 :CUSTOM_ID: 
-:Name:      /home/deerpig/proj/chenla/studyhall/ch-overview.org
+:Name:      /home/deerpig/proj/chenla/studyhall/sh-overview.org
 :Created:   2017-09-24T09:24@Prek Leap (11.642600N-104.919210W)
 :ID:        544702d8-fc92-45f0-baec-fc1a783d63a9
 :VER:       559491924.348558149
@@ -68,7 +68,6 @@ The Seven Liberal Arts
    - astronomy (applied theory of space)
      - architecture, geography, surveying, engineering 
 
-
  - Liberal Arts
    Action begins in the agent and ends in the agent who is
    perfected by the action.
@@ -80,11 +79,8 @@ and ends in an object.
  - Utilitarian Arts
    Produces utilities that serve the wants of humanity.
 
-
-
    - carpentry, masonry, plumbing, salemanship, printing,
      editing, banking, law, medicine, or the care of souls.
-   
 
  - Fine Arts
    Produces works that have the power to elevate the human
