@@ -56,11 +56,11 @@ done up front.
 
  - Three Pillars of Academia: Teaching, Research, Service
    
-It seems that a split of 40/40/20 is a good balance for
-teaching staff.  I think we need to extend the concept to
-students as well, students will need to study, practice and
-work.  Working 20% doesn't sound like much.... but there are
-only so many hours in a day.
+   It seems that a split of 40/40/20 is a good balance for
+   teaching staff.  I think we need to extend the concept to
+   students as well, students will need to study, practice
+   and work.  Working 20% doesn't sound like much.... but
+   there are only so many hours in a day.
 
 * Curriculum
 
