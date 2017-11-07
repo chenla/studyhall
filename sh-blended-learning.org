@@ -27,13 +27,15 @@
 
 * Introduction
 
+We're trying to teach 21C skills using a 19C system based on factory
+assembly line....
 
 
 #+begin_quote
 To paraphrase Carol Black; what do we do if a student does a math
 problem and they do it perfectly and they do it quickly. Do we praise
 them? And she said no, we say, I'm sorry we wasted your time, it was
-obviously too easy, let me find something you can learning from.
+obviously too easy, let me find something you can learn from.
 
 -- Monique Markoff | [[https://www.youtube.com/watch?v=Mb2d8E1dZjY][TEDxIthacaCollege]]
 #+end_quote
@@ -45,5 +47,6 @@ obviously too easy, let me find something you can learning from.
  - [[bib:rajan:2013leveraging][Leveraging three pillars of academia through blended learning]] | Amala Rajan (pdf)
 
  - [[https://www.youtube.com/watch?v=Mb2d8E1dZjY][Blended learning and the future of education]] | Monique Markoff, TEDxIthacaCollege
+
 
 
