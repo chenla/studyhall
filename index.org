@@ -29,6 +29,8 @@
 
  - [[https://www.quora.com/Can-the-Feynman-lectures-on-physics-help-me-learn-physics][Can the Feynman lectures on physics help me learn physics? - Quora]]
 
+ - [[./sh-blended-learning.org][Blended Learning]]
+
 
 * Techniques
 
