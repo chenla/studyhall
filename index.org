@@ -48,21 +48,6 @@ done up front.
  - Memory Palace
  - [[https://www.youtube.com/watch?v=BxFKvn5wCrE&index=7&list=PLY33uf2n4e6NALWnVjUZVbXwsJtiFGccI][Memory palaces]] | open.osmosis.org (YouTube)
 
- - Spaced Repitition 
- - [[https://en.wikipedia.org/wiki/Spaced_repetition#Pimsleur.27s_graduated-interval_recall][Spaced repetition]] | Wikipedia
- - [[https://www.youtube.com/watch?v=cVf38y07cfk&list=PLY33uf2n4e6NALWnVjUZVbXwsJtiFGccI&index=2][Spaced repetition in learning theory]] | open.osmosis.org (YouTube)
- - Test-enhanced learning (match with spaced repitition)
-
-
- Without spaced repitition:
-  - 1 year  ~ forgot 33%
-  - 2 years ~ forgot 50%
-
-
-
- - [[https://www.quora.com/Whats-the-best-spaced-repetition-schedule][What's the best spaced repetition schedule?]] | Quora
- - [[https://www.wired.com/2008/04/ff-wozniak/?currentPage=all][Want to Remember Everything You'll Ever Learn? Surrender to This Algorithm]] | WIRED
- - [[http://orgmode.org/worg/org-contrib/org-drill.html][org-drill.el – flashcards and spaced repetition for org-mode]]
 
  - time clocking
  - task management
