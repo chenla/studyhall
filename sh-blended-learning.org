@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Blended Learning
+#+TITLE: Blended Learning 
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -26,4 +26,24 @@
 
 
 * Introduction
+
+
+
+#+begin_quote
+To paraphrase Carol Black; what do we do if a student does a math
+problem and they do it perfectly and they do it quickly. Do we praise
+them? And she said no, we say, I'm sorry we wasted your time, it was
+obviously too easy, let me find something you can learning from.
+
+-- Monique Markoff | [[https://www.youtube.com/watch?v=Mb2d8E1dZjY][TEDxIthacaCollege]]
+#+end_quote
+
+
+ - [[https://en.wikipedia.org/wiki/Blended_learning][Blended learning]] | Wikipedia
+ - [[https://www.youtube.com/watch?v=paQCE58334M][Blended learning & flipped classroom]] | open.osmosis.org (YouTube)
+
+ - [[bib:rajan:2013leveraging][Leveraging three pillars of academia through blended learning]] | Amala Rajan (pdf)
+
+ - [[https://www.youtube.com/watch?v=Mb2d8E1dZjY][Blended learning and the future of education]] | Monique Markoff, TEDxIthacaCollege
+
 
