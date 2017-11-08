@@ -55,6 +55,35 @@ obviously too easy, let me find something you can learn from.
  - Inverting the Classroom: A gateway to Creating an
    Inclusive Learning Environment | Maureen Lage (2000)
 
+** Mastery Learning
+
+Mastery learning is the concept of each student working at
+their own pace and mastering a topic before moving on.  The
+now traditional approach is for everyone in the class to
+spend the same amount of time on a topic and move on whether
+any individual students have understood the material or not.
+
+#+begin_quote
+More recently, the idea of "Flipped Mastery" gained some
+popularity. The term was coined by Jon Bergmann and Aaron
+Sams, both chemistry teachers. They suggest an
+implementation model for Mastery Learning that is mixed with
+flipped classroom. The idea is to use technology to
+time-shift the individual instruction and eliminate
+whole-class lectures. The students watch online lectures and
+move through the content at their own pace. In this way
+technology frees up the teachers to individualize the
+learning for each student.
+
+-- [[https://en.wikipedia.org/wiki/Mastery_learning][Mastery learning]] | Wikipedia
+#+end_quote
+
+ - [[https://en.wikipedia.org/wiki/Mastery_learning][Mastery learning]] | Wikipedia
+ - [[https://opinionator.blogs.nytimes.com/2013/10/23/in-flipped-classrooms-a-method-for-mastery/?smid=pl-share][In 'Flipped' Classrooms, a Method for Mastery]] | Tina Rosenberg, NYT (2013)
+ - [[https://opinionator.blogs.nytimes.com/2013/10/09/turning-education-upside-down/][Turning Education Upside Down]] | Tina Rosenberg, NYT (2013)
+
+
+
 ** Blue Systems
 
  - [[https://www.bluegroup.systems/posts/2016-12-22-flipping-a-large-class-part-1/][Flipping a Large Class: Part 1]] | Blue Blog
