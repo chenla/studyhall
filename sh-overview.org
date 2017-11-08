@@ -54,12 +54,12 @@ The Seven Liberal Arts
 
  - Quadrivium :: four arts of quantity pertaining to matter
 
-  /discrete quantities/
+   /discrete quantities/
 
    - arithmetic (theory of number)
      - algebra, calculus, etc
    - music (applied of theory)
-     - harmony, chemistry, 
+     - harmony, chemistry
 
    /continuous quantity/
 
