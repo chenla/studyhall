@@ -42,11 +42,18 @@ obviously too easy, let me find something you can learn from.
 
 
  - [[https://en.wikipedia.org/wiki/Blended_learning][Blended learning]] | Wikipedia
+ - [[https://en.wikipedia.org/wiki/Flipped_classroom][Flipped classroom]] | Wikipedia
  - [[https://www.youtube.com/watch?v=paQCE58334M][Blended learning & flipped classroom]] | open.osmosis.org (YouTube)
 
  - [[bib:rajan:2013leveraging][Leveraging three pillars of academia through blended learning]] | Amala Rajan (pdf)
 
  - [[https://www.youtube.com/watch?v=Mb2d8E1dZjY][Blended learning and the future of education]] | Monique Markoff, TEDxIthacaCollege
+
+ - [[http://faculty.washington.edu/kate1/ewExternalFiles/SageOnTheStage.pdf][From Sage on the Stage to Guide on the Side]]  | Alison King (1993) 
+   College teaching 41 1: 30–35.
+ - Peer Instruction: A User's Manual | Eric Mazur (1996)
+ - Inverting the Classroom: A gateway to Creating an
+   Inclusive Learning Environment | Maureen Lage (2000)
 
 ** Blue Systems
 
