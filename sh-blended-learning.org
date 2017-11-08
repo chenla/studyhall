@@ -48,5 +48,22 @@ obviously too easy, let me find something you can learn from.
 
  - [[https://www.youtube.com/watch?v=Mb2d8E1dZjY][Blended learning and the future of education]] | Monique Markoff, TEDxIthacaCollege
 
+** Blue Systems
 
+ - [[https://www.bluegroup.systems/posts/2016-12-22-flipping-a-large-class-part-1/][Flipping a Large Class: Part 1]] | Blue Blog
+ - [[https://www.internet-class.org/courses/fys/syllabus/][CSE 199 Syllabus]] | internet-class.org
+ - internet-class.org
+ - [[https://github.com/gchallen?tab=repositories][gchallen (Geoffrey Challen) / Repositories]]
+
+ - [[https://www.ops-class.org/][ops-class.org | Learn Operating Systems Online]]
+
+ /Tools/
+
+ - LDAP?
+ - [[https://auth0.com/][Single Sign On & Token Based Authentication]] | Auth0
+  
+ - [[https://www.discourse.org/][Discourse - Civilized Discussion]]
+ - [[https://blog.discourse.org/2014/04/install-discourse-in-under-30-minutes/][Install Discourse in Under 30 Minutes]] 
+ - [[https://hotcrp.com/][HotCRP.com]] | Conference review process
+ - [[https://github.com/kohler/hotcrp][kohler/hotcrp: HotCRP conference review software]] | Github
 
