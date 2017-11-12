@@ -27,3 +27,64 @@
 
 * Introduction
 
+
+ This post is about creating a presentation using hand drawn
+ calligraphy, but the content of the presentation is a very good
+ outline for training people to become mentors.
+
+   - [[http://nibrahim.net.in/2017/11/04/pycon_india_2017_keynote.html][Creating a presentation by hand using calligraphy]] | Noufal
+     Ibrahim
+   - [[https://speakerdeck.com/nibrahim/mentoring-what-why-and-how-pycon-india-2017-keynote][Mentoring : What, Why, and How?]] | (PyCon India 2017 Keynote) //
+     Speaker Deck
+   
+
+   - [[https://en.wikipedia.org/wiki/Mentorship][Mentorship]] | Wikipedia
+   - [[bib:bozeman:2007toward][Toward a useful theory of mentoring: A conceptual analysis and critique]] | Barry Bozeman (2007) 
+   - [[https://en.wikipedia.org/wiki/Letters_to_a_Young_Mathematician][Letters to a Young Mathematician]] | Wikipedia
+   - [[https://en.wikipedia.org/wiki/Letters_to_a_Young_Poet][Letters to a Young Poet]] | Wikipedia
+   - [[bib:rilke:2013letters][Letters to a Young Poet]] | Rainer Maria Rilke
+
+There is a /huge/ number of books written on mentoring,
+
+
+#+begin_quote
+If mentoring theory disappoints, it is not for a lack of scholarly
+attention or a deficit of published research.  By one accounting (J.
+Allen & Johnston, 1997), more than 500 articles on mentoring were
+published in management and education literatures during the 10 years
+leading up to 1997.
+
+-- [[bib:bozeman:2007toward][Toward a useful theory of mentoring: A conceptual analysis and critique]] | Barry Bozeman (2007) 
+#+end_quote
+
+ a lot of them
+are little more than self-help books (hey it's trendy!) I found this
+[[https://www.amazon.com/gp/richpub/listmania/fullview/R1O9Y3GAQDBRYO][list]] on Amazon which doesn't look half bad.
+
+
+#+begin_quote
+The crowd at the registration desk gathers, and now my watch
+begins. It shall not end until the end of the sprints.
+
+I shall speak no jargon, feign no surprise, well no actuallys, and
+avoid all subtle isms.
+
+I will remember what it was like to be a beginner.
+
+I shall wear no crowns and seek no glory in geeking out with all my
+conference mates, and instead will drop anything at a moment's notice
+to help any beginner with sympathy, patience and a smile.
+
+I am the mentor in the darkness.
+
+I am the friendly coach in the halls.
+
+I am the dunderinit for new happy programmers.
+
+I pledge my life and honor to the Beginners Watch, for this day, and all the
+scheduled conference days to come.
+
+-- Harry Percival (@hjwp) & Nicholas Tollervey (@ntoll)
+   [[https://www.youtube.com/watch?v=WI-BFxeumv8][Oath of the Mentor]] | YouTube
+#+end_quote
+
