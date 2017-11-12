@@ -83,7 +83,6 @@ learning for each student.
  - [[https://opinionator.blogs.nytimes.com/2013/10/09/turning-education-upside-down/][Turning Education Upside Down]] | Tina Rosenberg, NYT (2013)
 
 
-
 ** Blue Systems
 
  - [[https://www.bluegroup.systems/posts/2016-12-22-flipping-a-large-class-part-1/][Flipping a Large Class: Part 1]] | Blue Blog
