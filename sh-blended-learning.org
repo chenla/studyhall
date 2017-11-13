@@ -83,6 +83,83 @@ learning for each student.
  - [[https://opinionator.blogs.nytimes.com/2013/10/09/turning-education-upside-down/][Turning Education Upside Down]] | Tina Rosenberg, NYT (2013)
 
 
+** Hungarian Approach
+
+#+begin_quote
+In the Hungarian approach to learning and teaching, a strong
+and explicit emphasis is placed on problem solving,
+mathematical creativity, and communication. Students learn
+concepts by working on problems with complexity and
+structure that promote perseverance and deep
+reflection. These mathematically meaningful problems
+emphasize procedural fluency, conceptual understanding,
+logical thinking, and connections between various topics.
+
+For each lesson, a teacher selects problems that embody the
+mathematical goals of the lesson and provide students with
+opportunities to struggle productively towards
+understanding. The teacher carefully sequences the problems
+to provide focus and coherence to the lesson. These problems
+do more than provide students with opportunities to learn
+the mathematical topics of a given lesson. Indeed, the
+teacher sees the problems she poses as vehicles for
+fostering students’ reasoning skills, problem solving, and
+proof writing, just to name a few. An overarching goal of
+every lesson is for students to learn what it means to
+engage in mathematics and to feel the excitement of
+mathematical discovery. Click here for a sample task from a
+5th grade classroom at Fazekas Mihály School in Budapest.
+
+Another hallmark of the Hungarian approach is the classwide
+discussion of approaches to problems. After working on
+problems individually or in small groups, volunteers come to
+the front of class to share their solutions. Because of the
+non-trivial nature of these problems, students learn to
+communicate their thinking with clarity and precision. When
+a student gets stuck, others chime in to offer support and
+suggestions in a friendly manner. The teacher creates a
+welcoming environment that is conducive to the sharing of
+students’ mathematical experiences.
+
+In such a classroom, the teacher’s role is that of a
+motivator and facilitator. He provides encouragement and
+support as students engage with the task at hand. He offers
+guidance when a student is stuck and probes when
+clarification is needed. After the student investigation,
+the teacher highlights important ideas embedded in a
+concrete problem, and summarizes and generalizes their
+findings. In particular, the teacher’s summary makes sense
+and is meaningful, because students have had the experience
+of playing around with these ideas on their own before
+coming together to formalize them as a class.
+
+Moreover, the teacher repeatedly asks, “Did anyone get a
+different answer?” or “Did anyone use a different method?”
+to elicit multiple solutions strategies. This highlights the
+connections between different problems, concepts, and areas
+of mathematics and helps develop students’ mathematical
+creativity. Creativity is further fostered through
+acknowledging “good mistakes.” Students who make an error
+are often commended for the progress they made and how their
+work contributed to the discussion and to the collective
+understanding of the class.
+
+-- [[https://blogs.ams.org/matheducation/2015/01/10/the-hungarian-approach-and-how-it-fits-the-american-educational-landscape/][The Hungarian Approach and How It Fits the American
+   Educational Landscape]] | On Teaching and Learning
+   Mathematics
+#+end_quote
+
+
+
+ - Andrews, P., & Hatch, G. (2001). Hungary and its
+   characteristic pedagogical flow. Proceedings of the
+   British Congress of Mathematics Education, 21(2). 
+   26-40. [[[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.659.7472&rep=rep1&type=pdf][pdf]]]
+ - Stockton, J. C. (2010). Education of Mathematically
+   Talented Students in Hungary. Journal of Mathematics
+   Education at Teachers College, 1(2), 1-6. [[[http://journals.tc-library.org/index.php/matheducation/article/viewFile/574/354][pdf]]]
+
+
 ** Blue Systems
 
  - [[https://www.bluegroup.systems/posts/2016-12-22-flipping-a-large-class-part-1/][Flipping a Large Class: Part 1]] | Blue Blog
