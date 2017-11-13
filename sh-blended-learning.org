@@ -160,6 +160,9 @@ understanding of the class.
    Education at Teachers College, 1(2), 1-6. [[[http://journals.tc-library.org/index.php/matheducation/article/viewFile/574/354][pdf]]]
 
 
+ - [[https://www.theguardian.com/teacher-network/2012/jul/20/primary-maths-programme][Exploring different approaches to teaching primary maths]] | The Guardian
+ - [[https://matematiikkalehtisolmu.fi/2002/unkari/IJHUTSZ.html][Some Facts and Tendencies in the Hungarian Mathematics Teaching]] | Tibor Szalontai
+
 ** Blue Systems
 
  - [[https://www.bluegroup.systems/posts/2016-12-22-flipping-a-large-class-part-1/][Flipping a Large Class: Part 1]] | Blue Blog
