@@ -1,0 +1,33 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: ChalkHall Program
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+* Chalhall Program
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/studyhall/sh-chalkhall-program.org
+:Created:   2017-11-16T14:35@Prek Leap (11.642600N-104.919210W)
+:ID:        40428bbc-c699-415a-b2bb-a698ca916fce
+:VER:       564089792.312891086
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:QDJ6-2740
+:Class:     deploy
+:Type:      work
+:Status:    wip
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+
+
+** Introduction
+
+

@@ -25,6 +25,9 @@
 
 
  - [[./sh-intro.org][Introduction]]
+
+ - [[./sh-chalkhall-program.org][Chalkhall Program]]
+
  - [[./ch-overview.org][Chalkhall Overview]]
 
  - [[https://www.quora.com/Can-the-Feynman-lectures-on-physics-help-me-learn-physics][Can the Feynman lectures on physics help me learn physics?]] | Quora
