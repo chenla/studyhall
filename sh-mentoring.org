@@ -39,13 +39,12 @@
    
 
    - [[https://en.wikipedia.org/wiki/Mentorship][Mentorship]] | Wikipedia
+   - [[https://en.wikipedia.org/wiki/Peer_mentoring][Peer mentoring]] | Wikipedia
+
    - [[bib:bozeman:2007toward][Toward a useful theory of mentoring: A conceptual analysis and critique]] | Barry Bozeman (2007) 
    - [[https://en.wikipedia.org/wiki/Letters_to_a_Young_Mathematician][Letters to a Young Mathematician]] | Wikipedia
    - [[https://en.wikipedia.org/wiki/Letters_to_a_Young_Poet][Letters to a Young Poet]] | Wikipedia
    - [[bib:rilke:2013letters][Letters to a Young Poet]] | Rainer Maria Rilke
-
-   - [[http://www.baliinternships.com/info/placement-fees/][Placement-Fees]] | BaliInternships
-
 
 There is a /huge/ number of books written on mentoring,
 
@@ -91,3 +90,38 @@ scheduled conference days to come.
    [[https://www.youtube.com/watch?v=WI-BFxeumv8][Oath of the Mentor]] | YouTube
 #+end_quote
 
+Mentoring is one of those things that sound good and should
+be simple, but is not.
+
+What is the relationship between a student and mentor --
+what is the mentor expected to help with?  
+
+How do we actually train the mentor?
+
+It's going to be difficult to get Cambodian students with
+poor english communication skills to come out and tell
+people they don't understand.
+
+The video on learning a new language talked about a
+"language parent":
+
+   - works to understand what you're saying
+   - does not correct mistakes
+   - confirms understanding by using correct language
+   - uses words the learners knows
+
+A mentor is not the same as a teacher, they are there to
+point the way and give alternative perspectives, not
+formally teach course material.
+
+A mentor is there to fill in the blanks in the material,
+that is frustrating the student, but isn't being addressed
+by the course material or structure.
+
+A mentor provides feedback to the teachers on where
+somethiing might be too easy or too difficult.
+
+That said, the mentor get's a lot out of the relationship by
+seeing the material through a beginners eyes and hopefully
+from time to time will see things that they had forgotten or
+never knew before. 
