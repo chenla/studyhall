@@ -244,6 +244,7 @@ We will loosely base the circiculm on [[https://github.com/ossu/computer-science
 ** Command Line
 ** Command Line Text Processing
 - [[./toolbox-awk.org][AWK]]
+- [[./toolbox-tar.org][Tar]]
 ** Scripting
 ** Editors
 *** Vi
