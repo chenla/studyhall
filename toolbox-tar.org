@@ -28,3 +28,61 @@
 :END:
 
 ** Introduction
+
+** Less memorization, more understanding
+
+#+begin_quote
+nerdponx 16 hours ago [-]
+
+It's even easier than that! Less memorization, more understanding.
+
+You can think of Tar arguments as either subcommands or options. The
+dashes are optional
+
+The "subcommands" are x (extract), c (create), t (list), among others.
+
+The "options" are f (read from named file rather than stdin), v
+(verbose mode), and z (run gzip on the archive before processing).
+
+The fact that these options can be written without leading dashes, and
+all smashed together in a single argument, is legacy silliness for
+saving a few keystrokes. Don't confuse yourself with it, and don't
+confuse other people by teaching it to them, instead of teaching them
+how to actually use the command (which is really not hard at all).
+
+So when I write Tar commands, I like to think along these
+lines. Instead of "tar zcvf foo.tar.gz", I write "tar -c -zv -f
+foo.tar.gz". After doing that about 3 times, it all sank in. Nowadays
+I'm much more intimidated by Git than Tar.
+
+In the version of tar on the machine I'm posting from (GNU tar
+1.27.1), this structure is obvious from right there in the man page:
+
+    SYNOPSIS
+       Traditional usage
+           tar {A|c|d|r|t|u|x}[GnSkUWOmpsMBiajJzZhPlRvwo] [ARG...]
+    
+       UNIX-style usage
+           tar -A [OPTIONS] ARCHIVE ARCHIVE
+
+           tar -c [-f ARCHIVE] [OPTIONS] [FILE...]
+
+           tar -d [-f ARCHIVE] [OPTIONS] [FILE...]
+
+           tar -t [-f ARCHIVE] [OPTIONS] [MEMBER...]
+
+           tar -r [-f ARCHIVE] [OPTIONS] [FILE...]
+
+           tar -u [-f ARCHIVE] [OPTIONS] [FILE...]
+
+           tar -x [-f ARCHIVE] [OPTIONS] [MEMBER...]
+
+-----
+
+You can just do `tar caf` and `tar xaf`. It detects the archive format
+automatically (and I personnally find it easier to remember:
+"compress-as-fuck" and "extract-as-fuck").
+
+
+-- [[https://news.ycombinator.com/item?id=15712701][Learn just enough Linux to get things done]] | HN Thread
+#+end_quote
