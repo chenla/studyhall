@@ -28,6 +28,155 @@
 
 
 
-** Introduction
+** Proposal
 
+We are seeking to raise US$25,000 to establish a not-for-profit (as
+opposed to non-profit) IT education program in partnership with Prek
+Leap National College of Agriculture.  Fees used will go to funding a
+team who will develop video and text course material and to rennovate
+the facilities used for the program at the school.
 
+Additional funds will be raised from corporate sponsors, government
+development programs and traditional institutional grants.
+
+Students who graduate from the program will be placed in jobs around
+the world.  Students who land a job for $50,000 a year or more will
+pay 17% of their salaries to the school for the two years they are
+working.  Starting salaries at companies we will place students in
+typicall have starting salaries of US57-75,000 per year. The focus
+will be on placing students in the growing number of companies who
+primarily work /remotely/.  
+
+The poster child of remote work is Automattic, the $300 million
+company behind WordPress.  All of Automattic's workforce works from
+wherever they live, spread around the planet.  By targeting Remote
+work companies, we can lower the challenges of Western companies
+hiring graduates from Cambodia by not having to deal with obtaining
+visas.
+
+Since this is a four year program, investors will not see a return
+until the first group graduates. Our target is to place anywhere from
+5-10 students from each class.  Investors will be paid back from funds
+collected in the first year after students are placed.  After that
+investors will recieve 10% of net placement fees for four years after
+the initial investment as been returned. If we can place 10 students a
+year at $10,000 a year each, then the investor should recieve $80,000
+return on investment.
+
+** Chalkhall Program
+
+Our goal is to provide students with an intensive 4 year course of
+study that will be the equivilent of a MIT BS degree in computer
+science as well as provide a solid set of practical knowledge of real
+world tools, languages and skills.
+
+The school year is made up of three 16 week semesters.  Starting in
+the third semester students will start working part time as an intern
+in a company, either in Phnom Penh, or remotely in a company overseas.
+
+Each student will be paired with a /mentor/ who will be a working
+professional in the IT industry, either here in Cambodia or abroad.
+
+Classes will use a combination of /blended learning/ and /mastery
+learning/ techniques.  In blended learning, classes are "flipped" so
+course material usually provided in lectures is covered in videos and
+texts that are watched and read before class.  Class time will be
+spent working on exercises, pair programing, and group activities
+together with faculty and visiting faculty who will come to PNCA as
+part of a Sabbatical program of IT professionals for anywhere from two
+weeks to four months to work with students and work on Open Source
+projects meant to help people in the Greater Mekong Subregion.
+
+The first year is a foundation year that be split between learning
+communication (writing, reading and speaking in english), critical
+thinking & problem solving and core technical skills including the
+linux operating system, command line text processing, version control,
+introduction to scripting languages (python and ruby), and an
+introduction to the Web Stack (html, css, javascript, php, mysql and
+react).
+
+At the end of the first year students have the option of applying to
+continue on with the next three years of the chalkhall program, leave
+the program with a certificate from Chalkhall and PNCA, or transfer
+into the 4 year PNCA Computer Science BS degree program.
+
+Students who apply for an are accepted into the secondary Chalkhall
+program will continue to move on to advanced topics including STEM
+courses that include Calculus, Physics, Chemistry as well as advanced
+Computer Science courses that will cover Algorithms, Cryptography,
+Networking, Advanced Programing, Robotics, Artificial Intelligence
+etc.
+
+At the end of the program, some students will be hired by the
+companies that they have been interning with.  We will help place
+all graduates in good paying jobs.
+
+Students do not have to pay anything unless they have been placed in a
+job that pays US$50,000 per year or more.  Students then pay 17% of
+their salaries for the first 2 years, or $20,000 in a one time payment.
+
+** Pilot Program
+
+The initial pilot program which is scheduled to begin in April 2017
+will be a class exclusively for women.  People in developing countries
+face many challenges that people in the West don't.  Women in
+developing countries face all of the same challenges as men as well as
+all of the extra challenges that women must overcome.
+
+It is not enough for us to pay lip service to reaching out to women in
+the program.  We must identify and address those problems and find
+ways of overcoming them.  We believe the best way to do that is to
+start the program with an all female class (with female mentors, and
+at least some women faculty) so those issues will have been addressed
+before the program begins accepting male applicants in our second or
+third year.
+
+** Online Course Material
+
+All material created for chalkhall, including video, text and code
+will be available for free under an open source licence to anyone in
+the world with an Internet connection.  This will allow anyone to take
+the course as self-study, and to take part in online community where
+students taking the course on their own can support each other.
+
+We will also encourage others to use the material as a template for
+starting their own school, or to incorporate our materials in existing
+programs.
+
+** Prek Leap Computer Science Degree Program
+
+In the second year of the pilot program, PNCA will fork a subset of
+the Chalkhall curriculum as a separate bachelors degree program in
+their Computer Science Department.  Degrees will be offered in
+Computer Science Engineering, which a focus on operations, and
+Computer Science Programing, which will focus on software development.
+A third degree program will focus on Agricultural Computer Technology,
+which will include Robotics, Remoting Sensing and Satellite Imaging.
+
+Chalk hall will continue to work closely with PNCA and provide most of
+the course material for their program indefinately as well as
+introduce mentors to students and access to visiting faculty from the
+sabbatical program.
+
+** Student Fees
+
+Once graduates land a job paying >$50,000 per year, they pay 20% of
+their salaries for two years, or $20,000 up front.
+
+** In-Country Mentor & Sabbatical Services
+
+We will encourage Mentors and those joining the Sabbatical program to
+visit PNCA to meet and work with students and to work together on open
+source projects and research.
+
+Chalkhall, in partnership with PNCA, will provide number of services
+to mentors and visiting faculty.  They will be picked up at the
+airport, provided with help getting a SIM card for their phone, given
+orientation instruction in Khmer culture and the basics of getting
+around and doing things.  Staff will be oncall 24 hours a day to help
+with information, resolving problems and will provide assistence in
+the event of an emergancy.
+
+The school also has Western style apartments on campus where visitors
+can stay that will include breakfast and lunch at a very reasonable
+price.
