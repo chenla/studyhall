@@ -36,7 +36,11 @@
      Ibrahim
    - [[https://speakerdeck.com/nibrahim/mentoring-what-why-and-how-pycon-india-2017-keynote][Mentoring : What, Why, and How?]] | (PyCon India 2017 Keynote) //
      Speaker Deck
-   
+
+   - [[http://www.nationalmentoringresourcecenter.org/index.php/what-works-in-mentoring/resources-for-mentoring-programs.html][Resources for Mentoring Programs]] | National Mentoring
+     Resourse Center
+
+
 
    - [[https://en.wikipedia.org/wiki/Mentorship][Mentorship]] | Wikipedia
    - [[https://en.wikipedia.org/wiki/Peer_mentoring][Peer mentoring]] | Wikipedia
@@ -124,4 +128,20 @@ somethiing might be too easy or too difficult.
 That said, the mentor get's a lot out of the relationship by
 seeing the material through a beginners eyes and hopefully
 from time to time will see things that they had forgotten or
-never knew before. 
+never knew before.
+
+I see the real value of a mentor as a coach that guides a
+student through exercises.  Exercises are lonely and often
+frustrating.
+
+It's important to provide mentors from outside Cambodia with
+enough context to understand the reality of life in
+Cambodia.
+
+
+To become a mentor:
+
+  - application
+  - profile
+  - interview
+  - mentorship training
