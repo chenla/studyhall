@@ -4,6 +4,14 @@
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+* Chalkhall Overview
 :PROPERTIES:
 :CUSTOM_ID: 
 :Name:      /home/deerpig/proj/chenla/studyhall/sh-overview.org
@@ -18,14 +26,7 @@
 :Licence:   MIT/CC BY-SA 4.0
 :END:
 
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
-
-
-
+** Outline
 
  - Arts        -- what you do
  - Sciences    -- what you know
@@ -119,14 +120,11 @@ for lifelong learning.  I'm starting to get a sense of what
 that could be.
 #+end_comment
 
-
-
-
-* Chalkhall Study Program Overview
+** Chalkhall Study Program Overview
 
 Based on [[id:8426aa17-39a9-4714-9070-c133591a0d32][Notes]]
 
-** The Study Program
+*** The Study Program
 
 
   - Work on our inhouse OpenStack/OpenShift/Ceph cluster, develop
@@ -165,7 +163,7 @@ Based on [[id:8426aa17-39a9-4714-9070-c133591a0d32][Notes]]
     as well as visiting interns and visiting professionals in the
     sabbatical program.
 
-** The Pilot Program
+*** The Pilot Program
 
 Our initial pilot program will focus on Camodian Women in IT.  The 
 first class will be all women.  There are not as many opportunities
@@ -188,7 +186,7 @@ the groundwork so that there will be good jobs waiting for them when
 they graduate.
 
 
-** Funding the program
+*** Funding the program
 
 To fund the pilot program we will approach Remote Only Companies
 who have a workforce who works from where they live anywhere around
@@ -204,7 +202,7 @@ the world.  Some of the including:
 These companies are the poster children for technical innovation and
 Remote Work.  They all have teams spread across the planet.
 
-** The Ask
+*** The Ask
 
 Sponsor a girl in the pilot program for two years xxx/month and a
 laptop.
