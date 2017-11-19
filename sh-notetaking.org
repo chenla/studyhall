@@ -29,3 +29,24 @@
 
 ** Introduction
 
+ - How to Write a Thesis
+ - [[https://www.newyorker.com/books/page-turner/a-guide-to-thesis-writing-that-is-a-guide-to-life][A Guide to Thesis Writing That Is a Guide to Life]] | Hau Hsu, The
+   Atlantic (2015) 
+ - [[https://en.wikipedia.org/wiki/A_Manual_for_Writers_of_Research_Papers%2C_Theses%2C_and_Dissertations][A Manual for Writers of Research Papers, Theses, and Dissertations]] | Wikipedia
+ - [[https://en.wikipedia.org/wiki/The_Craft_of_Research][The Craft of Research]] | Wikipedia
+ - [[http://takingnotenow.blogspot.de/2008/07/note-keeping-in-1786-blumenbachs-system.html][Taking note: Note-keeping in 1786 - Blumenbach's System of Maps]] |
+   Taking Note
+
+#+begin_quote
+A thesis represents an investment with an uncertain return, mostly
+because its life-changing aspects have to do with process. Maybe it’s
+the last time your most harebrained ideas will be taken
+seriously. Everyone deserves to feel this way. This is especially true
+given the stories from many college campuses about the comparatively
+lower number of women, first-generation students, and students of
+color who pursue optional thesis work. For these students, part of the
+challenge involves taking oneself seriously enough to ask for an
+unfamiliar and potentially path-altering kind of mentorship.
+
+-- [[https://www.newyorker.com/books/page-turner/a-guide-to-thesis-writing-that-is-a-guide-to-life][A Guide to Thesis Writing That Is a Guide to Life]]
+#+end_quote
