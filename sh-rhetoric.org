@@ -4,6 +4,14 @@
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+* Rhetoric (Oral Communication)
 :PROPERTIES:
 :CUSTOM_ID: 
 :Name:      /home/deerpig/proj/chenla/studyhall/sh-rhetoric.org
@@ -17,12 +25,6 @@
 :Status:    wip
 :Licence:   MIT/CC BY-SA 4.0
 :END:
-
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 
 :META:
@@ -38,7 +40,3 @@ presentations and exposure to communication skills useful in a
 workplace setting. Students create, give and revise a number of
 presentations of varying length targeting a range of different
 audiences.
-
-** Notes
-
-This is effectively a course in rhetoric
