@@ -35,6 +35,8 @@
  - [[./sh-blended-learning.org][Blended Learning]]
  - [[./sh-spaced-repitition.org][Spaced Repitition]]
  - [[./sh-mentoring.org][Mentorship]]
+ - [[./sh-notetaking.org][Notetaking]]
+
 
 * Techniques
 
