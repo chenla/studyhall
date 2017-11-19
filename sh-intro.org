@@ -4,6 +4,16 @@
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
+
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+* Introduction to Studyhall
 :PROPERTIES:
 :CUSTOM_ID: 
 :Name:      /home/deerpig/proj/chenla/studyhall/sh-intro.org
@@ -18,16 +28,10 @@
 :Licence:   MIT/CC BY-SA 4.0
 :END:
 
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
+** Introduction
 
-* Introduction
-
-** Programs
+*** Programs
 
  - 2 Year Diploma in Software Development
  - 2 Year Diploma in Computer & Network System Operations
@@ -40,7 +44,7 @@
    - Scientists
    - Engineers
 
-** Core
+*** Core
 
 Each diploma and degree program will require students to complete a
 set of courses that will teach core skills needed to study the more
@@ -68,4 +72,4 @@ students to learn how to learn.
    - Web Fundementals
    - Virtualization (VMs, Containers etc)
    - Literate Computing & Devops
-   - Bitmap & Vector Graphic Fundementals
+     - Bitmap & Vector Graphic Fundementals
