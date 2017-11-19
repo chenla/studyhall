@@ -4,6 +4,15 @@
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
+
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+* Blended Learning
 :PROPERTIES:
 :CUSTOM_ID: 
 :Name:      /home/deerpig/proj/chenla/studyhall/sh-blended-learning.org
@@ -18,14 +27,8 @@
 :Licence:   MIT/CC BY-SA 4.0
 :END:
 
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-
-* Introduction
+** Introduction
 
 We're trying to teach 21C skills using a 19C system based on factory
 assembly line....
@@ -55,7 +58,7 @@ obviously too easy, let me find something you can learn from.
  - Inverting the Classroom: A gateway to Creating an
    Inclusive Learning Environment | Maureen Lage (2000)
 
-** Mastery Learning
+*** Mastery Learning
 
 Mastery learning is the concept of each student working at
 their own pace and mastering a topic before moving on.  The
@@ -83,7 +86,7 @@ learning for each student.
  - [[https://opinionator.blogs.nytimes.com/2013/10/09/turning-education-upside-down/][Turning Education Upside Down]] | Tina Rosenberg, NYT (2013)
 
 
-** Hungarian Approach
+*** Hungarian Approach
 
 #+begin_quote
 In the Hungarian approach to learning and teaching, a strong
@@ -163,7 +166,7 @@ understanding of the class.
  - [[https://www.theguardian.com/teacher-network/2012/jul/20/primary-maths-programme][Exploring different approaches to teaching primary maths]] | The Guardian
  - [[https://matematiikkalehtisolmu.fi/2002/unkari/IJHUTSZ.html][Some Facts and Tendencies in the Hungarian Mathematics Teaching]] | Tibor Szalontai
 
-** Blue Systems
+*** Blue Systems
 
  - [[https://www.bluegroup.systems/posts/2016-12-22-flipping-a-large-class-part-1/][Flipping a Large Class: Part 1]] | Blue Blog
  - [[https://www.internet-class.org/courses/fys/syllabus/][CSE 199 Syllabus]] | internet-class.org
