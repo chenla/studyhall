@@ -50,3 +50,15 @@ unfamiliar and potentially path-altering kind of mentorship.
 
 -- [[https://www.newyorker.com/books/page-turner/a-guide-to-thesis-writing-that-is-a-guide-to-life][A Guide to Thesis Writing That Is a Guide to Life]]
 #+end_quote
+
+** Lab Notebooks
+
+#+begin_src bibtex
+@article{nih:2006guidelines,
+  author =       {National Institute of Health Office of the Director},
+  title =        {Guidelines for Scientific Record Keeping in the Intramural Research Program at the NIH },
+  year =         {2008},
+  OPTkey =       {},
+  url    =       {https://oir.nih.gov/sites/default/files/uploads/sourcebook/documents/ethical_conduct/guidelines-scientific_recordkeeping.pdf}
+}
+#+end_src
