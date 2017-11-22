@@ -28,3 +28,24 @@
 :END:
 
 ** Introduction
+
+
+The idea of a thesis is the ultimate and logical culmination of the
+liberal arts and the very embodiment of the medieval /Trivium/.  A
+thesis requires that the Trivium's three subjects, grammer, logic, and
+rhetoric be used together to produce a singular work of scholarship or
+scientific inquiry.  A knowledge of logic is required to frame
+questions, investigate and research source material and evaluate that
+material to make new insights.  A mastery of grammer provides the
+knowledge of maniputing writing and other symbol systems to turn
+present research and findings clearly so others can understand what
+has been discovered.
+
+It's sometimes forgotten that the oral defense of the thesis is
+considered to be nearly as important as the written thesis.  This is
+where rhetoric comes into play.  To convince in writing is a different
+art from convincing in person.  And an oral defense of a proposition
+takes place in real time.  During an oral defense you are either
+prepared or not.  You either have mastered the material or you
+haven't.  There is no inbetween.
+
