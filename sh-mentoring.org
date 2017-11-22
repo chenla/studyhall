@@ -26,6 +26,26 @@
 :Licence:   MIT/CC BY-SA 4.0
 :END:
 
+#+begin_quote
+    If the role model’s message is “Be like me,” the
+    mentor’s implicit message says: “I will help you be
+    whoever you want to be.” Young people need to hear and
+    believe both messages.
+
+   -- [[william:1988forgotten][The Forgotten Half: Pathways to Success for America’s Youth and Young Families]]
+#+end_quote
+
+Campus Compact has some very good material.  The following
+link is for establishing college student mentors to mentor
+secondary school students.
+
+  - [[https://compact.org/resource-posts/mentoring/][Best Practices in Campus-Based Mentoring]] | Campus Compact
+
+My original goal was to set up the mentoring program to
+match our students here, with working professionals.  I
+think that's still the goal.  But there is no reason why we
+can't match up grad level students or recent graduates in
+other countries with our students as well.
 
 ** Introduction
 
@@ -147,3 +167,15 @@ To become a mentor:
   - profile
   - interview
   - mentorship training
+
+** Mentor Compact
+:PROPERTIES:
+:ID:       2d5f65ce-eacd-467d-9ef4-82219868e896
+:END:
+
+  - [[https://oir.nih.gov/sites/default/files/uploads/sourcebook/documents/ethical_conduct/lab_compact_examples.pdf][Lab Compact Examples]] | NIH
+  - [[https://www.ucdmc.ucdavis.edu/mentoring/pdfs/Mentor-ScholarExpectations08-2012.pdf][Mentee/Scholar and Mentor Compact]] | UC Davis
+
+Googling for "mentor compact" returns 2.6 million results.
+There is no shortage of example compacts to choose from.
+
