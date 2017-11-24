@@ -58,7 +58,14 @@ unfamiliar and potentially path-altering kind of mentorship.
   author =       {National Institute of Health Office of the Director},
   title =        {Guidelines for Scientific Record Keeping in the Intramural Research Program at the NIH },
   year =         {2008},
-  OPTkey =       {},
   url    =       {https://oir.nih.gov/sites/default/files/uploads/sourcebook/documents/ethical_conduct/guidelines-scientific_recordkeeping.pdf}
 }
 #+end_src
+
+** Log Books
+
+Log books are the engineering equivilent of Lab Notebooks.
+
+  - [[https://routley.io/tech/2017/11/23/logbook.html][Using a logbook to improve your programming]] | James Routley
+  - [[http://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=1031&context=tips][Effective Use of Logbooks in Engineering Education]] 
+
