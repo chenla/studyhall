@@ -39,6 +39,8 @@
  - [[./sh-notetaking.org][Note Taking]]
  - [[./sh-thesis.org][Thesis]]
 
+ - [[./sh-candidates.org][Candidates]]
+
 * Techniques
 
 Youtube:  [[https://www.youtube.com/playlist?list=PLY33uf2n4e6NALWnVjUZVbXwsJtiFGccI][The science of teaching and learning]] from open.osmosis.org
