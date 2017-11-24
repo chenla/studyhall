@@ -29,3 +29,14 @@
 
 ** Introduction
 
+In many respects our greatest challenge is finding and evaluating
+potential talent.
+
+First, they have to be /smart/.  Second, they have to /enjoy/ working
+on and solving problems which means they don't give up easily.  Third,
+they have to be /motivated/.
+
+It's then a matter of helping the student find out what they are good
+at and enjoy working on.  Some of this comes down to predisposition,
+dev people are very different from ops people.
+
