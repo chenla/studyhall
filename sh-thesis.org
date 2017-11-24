@@ -53,6 +53,9 @@ prepared or not.  You either have mastered the material or you
 haven't.  There is no inbetween.
 
 ** Audience
+:PROPERTIES:
+:ID:       a59d5506-f492-444b-b73f-8ec7c9e8b8ab
+:END:
 
 This book is for smart people who primarily work with information in
 the form of text.  Text includes and represents nearly all forms of
