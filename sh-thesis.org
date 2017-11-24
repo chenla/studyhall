@@ -52,6 +52,40 @@ takes place in real time.  During an oral defense you are either
 prepared or not.  You either have mastered the material or you
 haven't.  There is no inbetween.
 
+----
+
+  - tools, mastery, 
+
+
+Emacs and the Unix shell are not powerful in themselves.
+They are completely useless to a person who open them for
+the first time.  They are not obvious how to use it, being
+little more providing a blank canvas with no hint of how to
+use them.  They use conventions that predate modern GUI
+windows applications.  However, once you learn to use these
+tools they become powerful.  And once you have mastered
+these tools, they become an extension of your mind, your
+fingers seemingly doing things unbidden, having been
+ingrained into muscle memory.  A master of the command line
+and emacs becomes a powerful tool for making and
+manipulation of information.  The more you learn, the more
+powerful you become.  These are tools for master craftsmen,
+not weekend hobbyists.
+
+To master these tools you have to /want/ to do it, you need
+to /commit/ to doing it, and you need to constantly
+/practice/ the craft of doing it.  There are no shortcuts,
+the learning curve is steep, but it's not insurmountable.
+
+Emacs and the shell are tools for building a toolbox of
+custom tools that are combined into tool chains for doing
+different things.  Using a toolchain is a process called a
+workflow.  It's useful to think in terms of everything being
+greater and lesser processes that taken together make a
+life.  There is no destination, there is only the road we
+walk and what we see, who we meet and what we do along the
+way.
+
 ** Audience
 :PROPERTIES:
 :ID:       a59d5506-f492-444b-b73f-8ec7c9e8b8ab
