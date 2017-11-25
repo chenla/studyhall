@@ -33,23 +33,25 @@
 :END:
 
 
-The idea of a thesis is the ultimate and logical culmination of the
-liberal arts and the very embodiment of the medieval /Trivium/.  A
-thesis requires that the Trivium's three subjects, grammer, logic, and
-rhetoric be used together to produce a singular work of scholarship or
-scientific inquiry.  A knowledge of logic is required to frame
-questions, investigate and research source material and evaluate that
-material to make new insights.  A mastery of grammer provides the
-knowledge of maniputing writing and other symbol systems to present
-research and findings clearly so others can understand what has been
-discovered.
+The idea of a thesis is the ultimate and logical culmination
+of the liberal arts and the very embodiment of the medieval
+/Trivium/.  A thesis requires that the Trivium's three
+subjects, grammer, logic, and rhetoric be used together to
+produce a singular work of scholarship or scientific
+inquiry.  A knowledge of logic is required to frame
+questions, investigate and research source material and
+evaluate that material to make new insights.  A mastery of
+grammer provides the knowledge of maniputing writing and
+other symbol systems to present research and findings
+clearly so others can understand what has been discovered.
 
-It's sometimes forgotten that the oral defense of the thesis is
-considered to be nearly as important as the written thesis.  This is
-where rhetoric comes into play.  To convince in writing is a different
-art from convincing in person.  And an oral defense of a proposition
-takes place in real time.  During an oral defense you are either
-prepared or not.  You either have mastered the material or you
+It's sometimes forgotten that the oral defense of the thesis
+is considered to be nearly as important as the written
+thesis.  This is where rhetoric comes into play.  To
+convince in writing is a different art from convincing in
+person.  And an oral defense of a proposition takes place in
+real time.  During an oral defense you are either prepared
+or not.  You either have mastered the material or you
 haven't.  There is no inbetween.
 
 ----
@@ -86,7 +88,7 @@ life.  There is no destination, there is only the road we
 walk and what we see, who we meet and what we do along the
 way.
 
-We are, what William Sennett calls [[https://en.wikipedia.org/wiki/Homo_faber][Homo Faber]] (Man the Maker)
+We are, what Richard Sennett calls [[https://en.wikipedia.org/wiki/Homo_faber][Homo Faber]] (Man the Maker)
 
 we need to return to an premodern conception of making as
 craft -- what the germans call /handwerk/ literally making
@@ -112,74 +114,87 @@ I don't find either to be satisfying motivators
 :ID:       a59d5506-f492-444b-b73f-8ec7c9e8b8ab
 :END:
 
-This book is for smart people who primarily work with information in
-the form of text.  Text includes and represents nearly all forms of
-information, or is used to generate other types of information in the
-form of images.  This includes anything from writing prose (anything
-in a written language), code, numbers, math, and other symbol systems.
+This book is for smart people who primarily work with
+information in the form of text.  Text includes and
+represents nearly all forms of information, or is used to
+generate other types of information in the form of images.
+This includes anything from writing prose (anything in a
+written language), code, numbers, math, and other symbol
+systems.
 
-There are those who believe that the end of the keyboard is nearly
-apon us.  Such predictions are nothing new.  Many people thought that
-automatic voice to text would be the killer app that would make
-keyboards obsolete.  The new twist on these predictions is that you
-won't even have to dictate, you'll be ale to write purely by thinking!
+There are those who believe that the end of the keyboard is
+nearly apon us.  Such predictions are nothing new.  Many
+people thought that automatic voice to text would be the
+killer app that would make keyboards obsolete.  The new
+twist on these predictions is that you won't even have to
+dictate, you'll be ale to write purely by thinking!
 
-But this misses the entire point of written languages -- they are
-called written and not printed languages for a reason.  Writing is a
-physical process.  I remember many years ago reading a book that
-interviewed dozens of famous writers on how they wrote and how they
-thought about the process of writing.  A large number of writers 
-described writing like a process of making something physical, as if
+But this misses the entire point of written languages --
+they are called written and not printed languages for a
+reason.  Writing is a physical process.  I remember many
+years ago reading a book that interviewed dozens of famous
+writers on how they wrote and how they thought about the
+process of writing.  A large number of writers described
+writing like a process of making something physical, as if
 they were physically carving words into wood or stone.
 
-Writing is both a conscious and unconscious process that is not a
-one-to-one correspondence between spoken and written languages.  We as
-a species now rely on both to do different things.
+Writing is both a conscious and unconscious process that is
+not a one-to-one correspondence between spoken and written
+languages.  We as a species now rely on both to do different
+things.
 
-It's no accident that a thesis is both a written document that has to
-be defended orally.
+It's no accident that a thesis is both a written document
+that has to be defended orally.
 
-In /Preface to Plato/ Eric Havelock's theory that Homer's Iliad and
-The Oddessy was from an oral tradition.  Homer was composed and passed
-down to each generation through memorization.  What we call classical
-Greece emerged at the time of Plato which correspondended to the first
-generation of thinkers and artists who were grounded in what was to
-become a written tradition and that the two were mutually exclusive.
+In /Preface to Plato/ Eric Havelock's theory that Homer's
+Iliad and The Oddessy was from an oral tradition.  Homer was
+composed and passed down to each generation through
+memorization.  What we call classical Greece emerged at the
+time of Plato which correspondended to the first generation
+of thinkers and artists who were grounded in what was to
+become a written tradition and that the two were mutually
+exclusive.
 
-It was the generation of the pre-socratics who wrested writing systems
-from the scribes and accountants of the state to not only use writing
-for accounting of grain and slaves, taxes and war booty for which it
-had been invented and used for almost exlusively for xxx years before
-being subverted and used to tell stories that recorded abstract ideas,
-transcribed proscriptive knowledge, organized descriptive knowledge
-and communicated observations, memories and emotions of human
-experience to other people the author would never meet, and to future
-readers born long after the author's death.
+It was the generation of the pre-socratics who wrested
+writing systems from the scribes and accountants of the
+state to not only use writing for accounting of grain and
+slaves, taxes and war booty for which it had been invented
+and used for almost exlusively for xxx years before being
+subverted and used to tell stories that recorded abstract
+ideas, transcribed proscriptive knowledge, organized
+descriptive knowledge and communicated observations,
+memories and emotions of human experience to other people
+the author would never meet, and to future readers born long
+after the author's death.
 
-Spoken language extended and externalized of our brain's cognitive
-processes allowing us to share complex internal thoughts with anyone
-within earshot.  Written languages freed our thoughts to travel
-anywhere in space and in time independent of our physical bodies.
+Spoken language extended and externalized of our brain's
+cognitive processes allowing us to share complex internal
+thoughts with anyone within earshot.  Written languages
+freed our thoughts to travel anywhere in space and in time
+independent of our physical bodies.
 
-It's no surprise that the new religions born from the written
-tradition, Judaism, Christianity, Islam are founded on the concept of
-the written word as sacred transcriptions of all powerful dieties.
-Monothesim is the child of written language.  The Torah, Bible and
-Koran are not mythological stories from the oral tradition, they are
-precise letter for letter copies of singular texts that are used to
-spread the religion and to pass it down to new generations.  The older
-polytheistic pantheon's of Gods and assorted beings were more oral
-memes that evolved, merged and forked over time.  God's merged
-together into new Gods, some were forgotten and others emerged from
-the ashes to take their place but without the certainity and
-permanence that the new written scriptures would later provide.  In
-the case of the Torah and Koran, even the original language that the
-texts were written are still used today thousands of years later.  The
-Christian bible was a special case, since the first half of the text
-was taken from the Torah and translated from Hebrew which after a few
-centuries of translations into various languages finally into Kione
-(common) Greek until being adopted by the Roman Empire and settled
-into a Latin translation for more than a thousand years until Caxton's
+It's no surprise that the new religions born from the
+written tradition, Judaism, Christianity, Islam are founded
+on the concept of the written word as sacred transcriptions
+of all powerful dieties.  Monothesim is the child of written
+language.  The Torah, Bible and Koran are not mythological
+stories from the oral tradition, they are precise letter for
+letter copies of singular texts that are used to spread the
+religion and to pass it down to new generations.  The older
+polytheistic pantheon's of Gods and assorted beings were
+more oral memes that evolved, merged and forked over time.
+God's merged together into new Gods, some were forgotten and
+others emerged from the ashes to take their place but
+without the certainity and permanence that the new written
+scriptures would later provide.  In the case of the Torah
+and Koran, even the original language that the texts were
+written are still used today thousands of years later.  The
+Christian bible was a special case, since the first half of
+the text was taken from the Torah and translated from Hebrew
+which after a few centuries of translations into various
+languages finally into Kione (common) Greek until being
+adopted by the Roman Empire and settled into a Latin
+translation for more than a thousand years until Caxton's
 press turned the world upside down.
 
 #+begin_quote
@@ -191,9 +206,9 @@ The private is a body.  Language is only public as written.
 
 -------
 
-More than anything, this is a book that extols a personal philosophy
-of life, in which (though you may find this hard to believe at the
-moment) emacs is a major part of.
+More than anything, this is a book that extols a personal
+philosophy of life, in which (though you may find this hard
+to believe at the moment) emacs is a major part of.
 
 Learning how to learn
 Learning how to think critically
@@ -201,8 +216,8 @@ Learning how to think logically
 
 Learning how to communicate
 
-A thesis is where all of these skills come together through Research,
-Composition and Editing
+A thesis is where all of these skills come together through
+Research, Composition and Editing
 
 
 Dedicating yourself to a life in which you are constantly growing by
@@ -210,9 +225,10 @@ learning and challenging yourself to do more
 
 Dedicating yourself to a life working on important problems
 
-In one sense, this book is a bit like /Zen and the Art of Motorcycle
-Maintenance/ that is ostensibly about how to fix motorcycles but is
-really a framework for understanding the world and your place in it.
+In one sense, this book is a bit like /Zen and the Art of
+Motorcycle Maintenance/ that is ostensibly about how to fix
+motorcycles but is really a framework for understanding the
+world and your place in it.
 
 Mastery of a subject or discipline as the gateway to a life of
 learning and exploration.
