@@ -39,6 +39,155 @@
  - [[./sh-notetaking.org][Note Taking]]
  - [[./sh-thesis.org][Thesis]]
 
+
+The Three Workflow Loops
+
+ Mastery (hand and mind)
+
+   --> learn --> copy --> practice --> loop
+
+     internalizing knowledge and skills by rewiring mind and
+     hand through deliberate incremental practice
+
+ Craft (hand POV)
+  
+    --> task --> model --> implement --> modify --> loop
+ 
+ Research (mind POV)
+ 
+    --> question --> observe --> hypothesis --> test --> loop
+
+
+   An =identity= is a concept that includes all incarnations
+   of a specific entity from creation or birth to
+   dissolution or death.
+
+   Identities are holons in that any hoard may be identified
+   as a mutually exclusive entity, eg. Charles Dickens,
+   Mitsubishi, The Kingdom of Cambodia, Led Zepplin (musical
+   group) etc.  But looked at from another direction each of
+   these entities are made up of smaller parts which are
+   also mutually exclusive wholes in their own right.  The
+   Cambodian government is made up of various ministries.
+   And Led Zepplin was made up of different band members.
+
+   Identities are made of of different subsets or aspects
+   called /roles/ and /epochs/ 
+
+   A role is a subset of interconected relationships,
+   responsibilities, permissions and activities.  Charles
+   Dickens played different roles as father, husband,
+   editor, novelist etc..  Roles can overlap or nest within
+   each other and many activities belong to multiple roles.
+   Tolkien wrote the Hobbit as bed time stories for his
+   children so it could be said when writing the story the
+   roles of father and writer overlapped.
+
+   It can be said that we are distinct and different persons
+   at different stages of our life.  An /epoch/ is a
+   developmental subset within the total existence or
+   lifespan of an identity.  An epoch can be defined
+   culturally such as childhood, young adulthood, marriage,
+   old age.  They can be scientific divisions such as
+   Piaget's stages of cognitive developement, or even
+   thematically, such as Van Gogh's /Blue Period/ or a
+   teenager's /Goth/ period.  The history of Apple Computer
+   company can be broken into several different epochs
+   including periods when Steven Jobs was at the helm, or
+   dividing by product catagories such as Apple, Machintosh,
+   iPod and iPhone.
+   
+   There are two different aspects of any identity, epoch or
+   role, conscious/intentional activities that result in the
+   creation of composed information, and unconscious
+   activies that are logged, recorded, or collected by
+   automated processes regardless of whether the entity is
+   aware of them or not.  All of this conscious and
+   unconscious information constitutes the collective memory
+   of an identity which constitutes a /territory/.  When all
+   of this information is interconnected according to
+   different relationships between each piece of information
+   we get a /map/.  A map is a model or worldview of the
+   state of mind and memory at any given moment.  This is
+   one of the primary functions of organic brains -- to
+   maintain a model of the outside world which is used to
+   make decisions from how to get from the bedroom to the
+   bathroom, to whether or not to spend your holiday in
+   Phuket this year or not.
+   
+
+The only difference between a hoard (whole) and horcrux
+(part) is the POV of the observer.  But the distinction is
+important.  
+
+
+   === Hoard (identity) ======================
+
+   A hoard is the collected information of both
+   intentionally composed information, 
+
+   hoard spans all roles and epochs
+
+
+   *Intentional/Conscious* 
+
+   - *works*
+     - expression
+       - manifestation
+         - item
+   - *authorities*
+     - /entity/ -- any distinct named entity - a man or
+       woman (ie. Sally Fields), a dog (ie. Hachiko), a ship
+       (ie. Titanic), a structure (ie. HSBC bulding in
+       Shanghai), geographic feature (ie. Mekong River) a
+       corporate body (ie. IBM or Republic of China).
+     - /place-event/ places and events are essentially the same
+       different POVs a place has a primary focus on a
+       location in space, an event has a primary focus on a
+       time in a specific location.
+   - *terms* -- a label for an concept, terms are not
+       static, they have different meanings and contexts
+       over time.
+   ==== Horcrux (role) ======================
+
+   a telephone number in
+   a contact list, or a task in a todo list, and email to a
+   boyfriend or a PhD Thesis, and unconsciously collected,
+   logged or recorded which might include everything from
+   logs from biological health monitoring, video recorded
+   from cameras in an office or home, call and message data
+   of where and when you recieved a call or email, or a map
+   of everywhere you walk or drive over the course of the
+   day recorded by the GPS tracker in your cell phone.
+
+
+   - notes
+   - blobs
+   - tasks
+   - contacts
+   - readings
+   - quotes
+   - bibliography
+   - messages
+   ==== Projects ============================
+
+
+   ==== WIP (work) ==========================
+   - master -- working copy
+     - branch
+   ==== Source (expression) =================
+   - Release branch
+     - LaTex
+     - HTML
+   ==== Release (manifestation) =============
+   - pdf
+   - epub/web site 
+   ==== Instance (copy) =====================
+   - copy of a book
+   - copy of pdf or epub on disk
+   - copy of 
+
+
  - [[./sh-candidates.org][Candidates]]
 
 * Techniques
