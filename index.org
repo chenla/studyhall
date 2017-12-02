@@ -64,12 +64,13 @@ The Three Workflow Loops
 
    Identities are holons in that any hoard may be identified
    as a mutually exclusive entity, eg. Charles Dickens,
-   Mitsubishi, The Kingdom of Cambodia, Led Zepplin (musical
-   group) etc.  But looked at from another direction each of
-   these entities are made up of smaller parts which are
-   also mutually exclusive wholes in their own right.  The
-   Cambodian government is made up of various ministries.
-   And Led Zepplin was made up of different band members.
+   Mitsubishi, The Kingdom of Cambodia, the musical group
+   Led Zepplin etc.  But looked at from another direction
+   each of these entities are made up of smaller parts which
+   are also mutually exclusive wholes in their own right.
+   The Cambodian government is made up of various
+   ministries.  And Led Zepplin was made up of different
+   band members.
 
    Identities are made of of different subsets or aspects
    called /roles/ and /epochs/ 
