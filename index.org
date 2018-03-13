@@ -8,6 +8,8 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
+bibliography:../hoard/bib.bib
+
 * Studyhall | Table of Contents
 :PROPERTIES:
 :CUSTOM_ID: 
@@ -167,7 +169,6 @@ The only difference between a hoard (whole) and horcrux
 (part) is the POV of the observer.  But the distinction is
 important.  
 
-
    === Hoard (identity) ======================
 
    A hoard is the collected information of both
@@ -197,16 +198,15 @@ important.
        over time.
    ==== Horcrux (role) ======================
 
-   a telephone number in
-   a contact list, or a task in a todo list, and email to a
-   boyfriend or a PhD Thesis, and unconsciously collected,
-   logged or recorded which might include everything from
-   logs from biological health monitoring, video recorded
-   from cameras in an office or home, call and message data
-   of where and when you recieved a call or email, or a map
-   of everywhere you walk or drive over the course of the
-   day recorded by the GPS tracker in your cell phone.
-
+   a telephone number in a contact list, or a task in a todo
+   list, and email to a boyfriend or a PhD Thesis, and
+   unconsciously collected, logged or recorded which might
+   include everything from logs from biological health
+   monitoring, video recorded from cameras in an office or
+   home, call and message data of where and when you
+   recieved a call or email, or a map of everywhere you walk
+   or drive over the course of the day recorded by the GPS
+   tracker in your cell phone.
 
    - notes
    - blobs
@@ -216,6 +216,7 @@ important.
    - quotes
    - bibliography
    - messages
+
    ==== Projects ============================
 
 
